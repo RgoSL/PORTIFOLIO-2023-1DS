@@ -1,3 +1,9 @@
-Link do Repositório do Site <https://rafxnzz.github.io/High_Ecology/>
+My activities developed during the academic year related to the course’s partner company.
 
-Link Para Drive Com Apresentação do Site em Inglês <https://drive.google.com/file/d/18t5eAJvcfShedT35k1Wx4R_UU_Q7MGcL/view?usp=sharing)https://drive.google.com/file/d/18t5eAJvcfShedT35k1Wx4R_UU_Q7MGcL/view?usp=sharing>
+Link do Repositório do Projeto:
+
+https://github.com/RgoSL/High_Ecology
+
+Drive Com a Apresentação do Projeto em Inglês:
+
+https://drive.google.com/drive/folders/11DotNO89iPEqnP3PvG3aThI_6X39RQca
